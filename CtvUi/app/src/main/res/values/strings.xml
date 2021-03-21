@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CtvUi</string>
+    <string name="me">我的</string>
+    <string name="featured">精选</string>
+    <string name="aurora_tv">极光TV</string>
+    <string name="cool_cat_tv">酷猫TV</string>
+    <string name="movie">电影</string>
+    <string name="children">少儿</string>
+    <string name="education">教育</string>
+    <string name="application">应用</string>
+    <string name="analog_tv">模拟电视</string>
+    <string name="no_signal_source_access">无信号源接入</string>
+</resources>
